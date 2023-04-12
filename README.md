@@ -6,7 +6,7 @@ Made in Adventure Game Studio - AGS (AGS is authored by Chris Jones & others, se
 ![Screenshot 1](https://github.com/coscholz1984/Trench/blob/main/Screenshot1.png?raw=true)
 ![Screenshot 2](https://github.com/coscholz1984/Trench/blob/main/Screenshot2.png?raw=true)  
 
-The following publich domain art has been used as insperiation of input to the artwork in this game:
+The following art has been used as insperiation of input to the artwork in this game. All of which is released under public domain.
 
 Sprites and Models:\
 https://opengameart.org/content/sci-fi-soldier-and-guns by DasBilligeAlien \
