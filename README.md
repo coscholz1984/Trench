@@ -13,7 +13,7 @@ https://opengameart.org/content/sci-fi-soldier-and-guns by DasBilligeAlien \
 https://opengameart.org/content/faceset-2-bit by Blarumyrran \
 https://opengameart.org/content/new-faceset-2-bit by Blarumyrran \
 https://opengameart.org/content/high-res-tree-textures by rubberduck \
-https://opengameart.org/content/skeleton-with-rig
+https://opengameart.org/content/skeleton-with-rig by Gord Goodwin
 
 Music:\
 https://opengameart.org/content/simple-piano-chords by 8125
