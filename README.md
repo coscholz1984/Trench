@@ -22,4 +22,4 @@ The UI designed was created from scratch, but has been inspired by an AGS game c
 
 The end credits use the Creadits plugin by Andrew MacCormack licensed under GPLv2.1 with changes made by eri0o on the official [AGS Forum](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/module-credits-v1-19/).
 
-The other code in this repository is release under the GPLv3 license. All artwork, unless otherwise stated is available or released as publich domain aka CC0.
+The other code in this repository is release under the GPLv3 license. All artwork, unless otherwise stated is available or released as public domain aka CC0.
